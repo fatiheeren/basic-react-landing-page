@@ -1,5 +1,4 @@
 import { useState, useMemo } from "react";
-import { FaHome } from "react-icons/fa";
 
 function Hesaplama() {
   const [adet, setAdet] = useState(1);
@@ -40,7 +39,7 @@ function Hesaplama() {
           color: '#333',
           fontWeight: 'bold',
         }}> Link2</a>
-        <FaHome size={30} color="blue" />
+        
 
       </nav>
 
