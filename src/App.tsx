@@ -26,7 +26,7 @@ function Hesaplama() {
         alignItems: 'center',
 
       }}>
-        <h2>İzeer</h2>
+        <h2>Esay Yazılım</h2>
         <a href="Link1-bağlantısı"  style={{
           textDecoration: 'none',
           color: '#333',
@@ -120,7 +120,7 @@ function Hesaplama() {
         color: 'white',
         padding: '10px',
       }}>
-        <p>© 2025 İzeer Yazılım. Tüm hakları saklıdır.</p>
+        <p>© 2025 Esay Yazılım. Tüm hakları saklıdır.</p>
       </footer>
     </div>
   );
